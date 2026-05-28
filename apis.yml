@@ -1,0 +1,32 @@
+aid: maldatabase
+name: MalDatabase
+description: "Provide malware datasets and threat intelligence feeds"
+url: https://maldatabase.com/api-doc.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anti-Malware"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anti Malware
+  - Public APIs
+apis:
+  - name: MalDatabase
+    description: "Provide malware datasets and threat intelligence feeds"
+    humanURL: https://maldatabase.com/api-doc.html
+    baseURL: https://maldatabase.com/api-doc.html
+    tags:
+      - Anti Malware
+    properties:
+      - type: Documentation
+        url: https://maldatabase.com/api-doc.html
+common:
+  - type: Website
+    url: https://maldatabase.com/api-doc.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
