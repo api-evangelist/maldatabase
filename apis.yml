@@ -1,4 +1,16 @@
 aid: maldatabase
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/maldatabase.png
 name: MalDatabase
 description: "Provide malware datasets and threat intelligence feeds"
 url: https://maldatabase.com/api-doc.html
